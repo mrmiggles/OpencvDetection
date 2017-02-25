@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MatcherW.cpp
+MatcherW.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MatcherW.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MatcherW.cpp(180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MatcherW.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OcvDLL.cpp
+  Subject.cpp
+     Creating library C:\Users\Miguel Gallegos\Documents\Visual Studio 2015\Projects\OcvDLL\x64\Release\OcvDLL.lib and object C:\Users\Miguel Gallegos\Documents\Visual Studio 2015\Projects\OcvDLL\x64\Release\OcvDLL.exp
+  Generating code
+  Finished generating code
+  All 500 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  OcvDLL.vcxproj -> C:\Users\Miguel Gallegos\Documents\Visual Studio 2015\Projects\OcvDLL\x64\Release\OcvDLL.dll
+  OcvDLL.vcxproj -> C:\Users\Miguel Gallegos\Documents\Visual Studio 2015\Projects\OcvDLL\x64\Release\OcvDLL.pdb (Full PDB)
